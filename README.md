@@ -3,6 +3,7 @@
 Generative AI experiments and frontend projects, built while learning AI and web development.
 
 🔗 **Live demo:** https://shivangisinghal141-cloud.github.io/genai-experiments/
+> 🤖 This project was built with the help of AI (Claude) as part of my learning journey. I'm studying and modifying the code to understand how it works.
 
 ## 🚀 Projects
 
